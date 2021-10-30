@@ -6,6 +6,7 @@ Hack The Box (HTB)
 2. Dynstr Machine
 3. Jet Fortress
 4. Spider Machine
+5. Spooktrol Machine
 
 
 Try Hack Me (THM)
