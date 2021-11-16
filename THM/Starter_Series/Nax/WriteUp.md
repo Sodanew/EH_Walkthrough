@@ -33,7 +33,7 @@ Google about the element text on the main page.
 ![image](img/element1.png)
 
 # Decode 
-Refer to below table to decode the element number.
+Refer to the link and decode it.
 https://www.angelo.edu/faculty/kboudrea/periodic/structure_symbols.htm
 	
 Ag - Hg - Ta - Sb - Po - Pd - Hg - Pt - Lr  ---> Element symbol
@@ -41,7 +41,6 @@ Ag - Hg - Ta - Sb - Po - Pd - Hg - Pt - Lr  ---> Element symbol
 47 - 80 - 73 - 51 - 84 - 46 - 80 - 78 - 103   ---> ASCII CODE (Refer table)
 
 Next, convert the ASCII to text with python chr() function. 
-Extracted the text as below
 
 ![image](img/decode.png)
 
@@ -55,13 +54,13 @@ Examine the image. Creator discovered. Answer for question 2
 
 ![image](img/artist.png)
 
-Since this is stego challenge, use online source from the below link.
-https://0xrick.github.io/lists/stego/ 
+Since this is stego challenge, use online source from https://0xrick.github.io/lists/stego/.
 From the web tools in the list. Npiet online tool to extract valid credentials.
 
 ![image](img/credentials.png)
 
 Extracted part: nagiosadmin:n3p3UQ&9BjLp4$7uhWdY
+
 Answer for question 4 and 5.
 
 # Root
