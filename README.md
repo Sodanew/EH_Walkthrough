@@ -15,4 +15,4 @@ Try Hack Me (THM)
 2. PalsForLife
 3. Overpass-Series
 4. DogCat-StarterSeries
-5. GitHappens-StarerSeries
+5. GitHappens-StarterSeries
