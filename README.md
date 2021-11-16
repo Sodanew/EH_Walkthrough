@@ -16,3 +16,4 @@ Try Hack Me (THM)
 3. Overpass-Series
 4. DogCat-StarterSeries
 5. GitHappens-StarterSeries
+6. Nax-StarterSeries
