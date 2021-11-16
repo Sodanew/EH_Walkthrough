@@ -16,7 +16,7 @@ Main page of the website. Nothing special on the page.
 
 ![image](img/main.png)
 
-Checking on the source code with [CTRL+U]
+Checking on the source code.
 Discovered '/nagiosxi' directory and some text related element periodic table
 
 ![image](img/source.png)
@@ -42,6 +42,7 @@ Ag - Hg - Ta - Sb - Po - Pd - Hg - Pt - Lr  ---> Element symbol
 
 Next, convert the ASCII to text with python chr() function. 
 Extracted the text as below
+
 ![image](img/decode.png)
 
 # PIET
