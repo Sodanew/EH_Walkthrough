@@ -8,6 +8,7 @@ Hack The Box (HTB)
 4. Spider Machine
 5. Spooktrol Machine
 6. Akerva Fortress
+7. BountyHunter Machine
 
 
 Try Hack Me (THM)
