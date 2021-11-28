@@ -9,7 +9,7 @@ Hack The Box (HTB)
 5. Spooktrol Machine
 6. Akerva Fortress
 7. BountyHunter Machine
-
+8. Intelligence Machine
 
 Try Hack Me (THM)
 1. Chronicle
