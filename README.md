@@ -1,5 +1,5 @@
 # EH_Walkthrough
-Record every pentesting and ethical hacking step to targets network/machines
+Record every machine write-up and pentesting step to targets network/machines
 
 Hack The Box (HTB)
 1. Atom Machine
@@ -11,6 +11,7 @@ Hack The Box (HTB)
 7. BountyHunter Machine
 8. Intelligence Machine
 9. Pikaboo Machine
+10. Writer Machine
 
 Try Hack Me (THM)
 1. Chronicle
