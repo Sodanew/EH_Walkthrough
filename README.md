@@ -20,3 +20,4 @@ Try Hack Me (THM)
 4. DogCat-StarterSeries
 5. GitHappens-StarterSeries
 6. Nax-StarterSeries
+7. TheGreatEscape
