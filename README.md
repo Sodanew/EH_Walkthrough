@@ -13,6 +13,7 @@ Hack The Box (HTB)
 9. Pikaboo Machine
 10. Writer Machine
 11. Previse Machine
+12. Bolt Machine
 
 Try Hack Me (THM)
 1. Chronicle
