@@ -14,6 +14,7 @@ Hack The Box (HTB)
 10. Writer Machine
 11. Previse Machine
 12. Bolt Machine
+13. Forge Machine
 
 Try Hack Me (THM)
 1. Chronicle
