@@ -16,6 +16,7 @@ Hack The Box (HTB)
 12. Bolt Machine
 13. Forge Machine
 14. Horizontall Machine
+15. Meta Machine
 
 Try Hack Me (THM)
 1. Chronicle
