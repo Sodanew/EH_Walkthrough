@@ -19,6 +19,7 @@ Hack The Box (HTB)
 15. Meta Machine
 16. Paper Machine
 17. Overflow Machine
+18. Catch Machine
 
 Try Hack Me (THM)
 1. Chronicle
