@@ -23,6 +23,7 @@ Hack The Box (HTB)
 19. Pandora Machine
 20. OpenSource Machine
 21. Timing Machine
+22. Trick Machine
 
 Try Hack Me (THM)
 1. Chronicle
