@@ -24,6 +24,7 @@ Hack The Box (HTB)
 20. OpenSource Machine
 21. Timing Machine
 22. Trick Machine
+23. Undetected Machine
 
 Try Hack Me (THM)
 1. Chronicle
@@ -34,3 +35,7 @@ Try Hack Me (THM)
 6. Nax-StarterSeries
 7. TheGreatEscape
 8. Insekube
+
+PwnTillDawn (PTD)
+1. TheBit
+2. Brandy
