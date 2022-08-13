@@ -26,6 +26,7 @@ Hack The Box (HTB)
 22. Trick Machine
 23. Undetected Machine
 24. Late Machine
+25. Faculty Machine
 
 Try Hack Me (THM)
 1. Chronicle
