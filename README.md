@@ -30,6 +30,7 @@ Hack The Box (HTB)
 26. Talktative Machine
 27. Noter Machine
 28. Shared Machine
+29. UpDown Machine
 
 Try Hack Me (THM)
 1. Chronicle
